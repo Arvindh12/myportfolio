@@ -4,6 +4,7 @@
 }
 .main{
     overflow-x: hidden;
+    overflow-y: hidden;
 }
 p {
     font-style: italic;
@@ -153,6 +154,7 @@ flex-basis: 75%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    margin-bottom: 45px;
 }
 .interest{
     flex-grow: 1;
